@@ -19,6 +19,9 @@ function Header() {
               API
             </a>
           </li>
+          <li>
+            <a href="#footer">Contacto</a>
+          </li>
         </ul>
       </nav>
     </header>
