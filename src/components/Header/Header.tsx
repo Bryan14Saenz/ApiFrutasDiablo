@@ -4,7 +4,7 @@ function Header() {
   return (
     <header id="header">
       <div id="header-logo">
-        <img src="/src/assets/svg/OnePiece.svg" alt="logo one piece" />
+        <img src="/public/OnePiece.svg" alt="logo one piece" />
       </div>
       <nav id="header-nav">
         <ul>

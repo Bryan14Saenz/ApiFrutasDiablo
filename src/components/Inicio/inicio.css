@@ -1,6 +1,6 @@
 #inicio {
   position: relative;
-  background: url(/src//assets//Img/fondo.png);
+  background: url(/public/fondo.png);
   background-size: cover;
   background-position: bottom;
   background-repeat: no-repeat;
